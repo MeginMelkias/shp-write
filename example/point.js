@@ -1,6 +1,6 @@
 var write = require('../src/write'),
     fs = require('fs');
-
+//test megin
 var points = [
     [0, 0],
     //[10, 10]
